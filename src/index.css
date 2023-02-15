@@ -1,6 +1,8 @@
-*  {
-    font-family: 'Manrope', sans-serif !important;
-  }
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+* {
+  font-family: 'Manrope', sans-serif !important;
+}
   
   a {
     text-decoration: none !important;
