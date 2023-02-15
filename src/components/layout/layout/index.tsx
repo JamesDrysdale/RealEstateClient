@@ -34,6 +34,7 @@ export const Layout: React.FC<LayoutProps> = ({
             flexGrow: 1,
             // bgcolor: (theme) => theme.palette.background.default,
             bgcolor: "#E5E5E5",
+            color: "#11142D"
           }}
         >
           {children}
